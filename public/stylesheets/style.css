@@ -1,4 +1,14 @@
 body {
-  background-color: green;
   padding-top: 70px;
+}
+
+.node {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+
+svg {
+  display: block;
 }
